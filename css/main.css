@@ -1,0 +1,72 @@
+html {
+  padding: 0px;
+  margin: 0px;
+}
+
+header {
+  display: inline;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+header div {
+  height: 123px;
+  background-color: rgb(224, 203, 209);
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  width:240px;
+  height:auto;
+  padding:0px;
+  float: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+body {
+    background: rgb(94, 199, 232);
+    padding: 0px;
+    margin: 0px;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+}
+
+aside div img {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    float: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+  background-color: gray;
+}
+
+h1 {
+    /*display: inline-block;
+    position: fixed;
+    text-align: left;*/
+    margin: auto;
+    padding: 0px;
+    color: rgb(18, 36, 128);
+}
+
+nav div {
+    width: 240px;
+    height: auto;
+}
+
+.navbar {
+    padding: 20px;
+}
